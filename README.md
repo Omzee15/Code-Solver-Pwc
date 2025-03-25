@@ -80,4 +80,4 @@ Changes logged in `script_changes.txt`.
 
 
 
-Advanced debugging assistant designed to analyze, debug, and improve Python scripts seemlessly making the changes to the file using natural language prompts. It integrates with an LLM to identify errors, suggest modifications, and optimize code while maintaining execution integrity. Additionally, it offers GitHub integration for seamless file management and version control.
+
