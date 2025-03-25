@@ -1,7 +1,7 @@
 # Gemini AI Debugger
 
 ## Overview
-Gemini AI Debugger is an advanced debugging assistant designed to analyze, debug, and improve Python scripts. It integrates with **Google's Gemini AI** to identify errors, suggest modifications, and optimize code while maintaining execution integrity. Additionally, it offers **GitHub integration** for seamless file management and version control.
+This Debugger is an advanced debugging assistant designed to analyze, debug, and improve Python scripts. It integrates with **Google's Gemini AI** to identify errors, suggest modifications, and optimize code while maintaining execution integrity. Additionally, it offers **GitHub integration** for seamless file management and version control.
 
 ## Features
 - **AI-Powered Debugging**: Detects syntax and logical errors in Python code.
@@ -73,3 +73,11 @@ Changes logged in `script_changes.txt`.
 - Ensure valid API credentials are set in the `.env` file.
 
 
+
+
+
+
+
+
+
+Advanced debugging assistant designed to analyze, debug, and improve Python scripts seemlessly making the changes to the file using natural language prompts. It integrates with an LLM to identify errors, suggest modifications, and optimize code while maintaining execution integrity. Additionally, it offers GitHub integration for seamless file management and version control.
